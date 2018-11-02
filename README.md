@@ -1,2 +1,2 @@
 # External-Login
-External Login with Facebook in ASP.NET MVC application
+External Login with Facebook/Google in ASP.NET MVC application
